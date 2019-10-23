@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - October 23, 2019
 
-* TODO: Describe initial release.
+* AnimatedRotation widget added with example and docs

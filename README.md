@@ -4,7 +4,7 @@ An implicit animation widget for rotation
 Add the dependency to your pubspec.yaml
 ```
 dependencies:
-  animated_rotation: ^0.1.0
+  animated_rotation: ^0.0.2
 ```
 Run `flutter packages get` in your root folder after saving the pubspec.yaml file
 # Usage

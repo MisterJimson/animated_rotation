@@ -63,6 +63,10 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 ```
 ### Example image
-![Example](https://raw.githubusercontent.com/MisterJimson/animated_rotation/master/.media/example.png)
+<p align="center">
+  <img width="450" src="https://raw.githubusercontent.com/MisterJimson/animated_rotation/master/.media/example.png">
+</p>
 ### Example gif
-![Example](https://raw.githubusercontent.com/MisterJimson/animated_rotation/master/.media/example.gif)
+<p align="center">
+  <img width="450" src="https://raw.githubusercontent.com/MisterJimson/animated_rotation/master/.media/example.gif">
+</p>

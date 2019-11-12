@@ -3,14 +3,14 @@ An implicitly animated version of [RotationTransition](https://api.flutter.dev/f
 # Install
 Get it from [pub](https://pub.dev/packages/animated_rotation).
 Add the dependency to your pubspec.yaml
-```
+```yaml
 dependencies:
   animated_rotation: ^0.0.2
 ```
 Run `flutter packages get` in your root folder after saving the pubspec.yaml file
 # Usage
 Here is an example of the counter app with text rotating based on the count
-```
+```dart
 import 'package:animated_rotation/animated_rotation.dart';
 import 'package:flutter/material.dart';
 

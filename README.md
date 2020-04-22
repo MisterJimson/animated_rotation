@@ -1,5 +1,7 @@
 # AnimatedRotation
 An implicitly animated version of [RotationTransition](https://api.flutter.dev/flutter/widgets/RotationTransition-class.html) which automatically transitions the rotation over time when the provided angle changes.
+
+Check it out on [DartPad](https://dartpad.dev/7b72ba9246c655002e32c526c0bc3846)
 # Install
 Get it from [pub](https://pub.dev/packages/animated_rotation).
 Add the dependency to your pubspec.yaml

@@ -1,6 +1,6 @@
 name: animated_rotation
 description: An implicit animation widget for rotation. Just provide the angle and the widget will rotate over time.
-version: 0.0.2
+version: 1.0.0
 author: Jason Rai <jason.c.rai@gmail.com>
 homepage: https://github.com/MisterJimson/animated_rotation
 

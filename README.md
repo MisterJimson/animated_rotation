@@ -1,4 +1,4 @@
-# AnimatedRotation
+# AnimatedRotation [![pub package](https://img.shields.io/pub/v/animated_rotation.svg?label=animated_rotation&color=blue)](https://pub.dev/packages/animated_rotation)
 An implicitly animated version of [RotationTransition](https://api.flutter.dev/flutter/widgets/RotationTransition-class.html) which automatically transitions the rotation over time when the provided angle changes.
 
 Check it out on [DartPad](https://dartpad.dev/7b72ba9246c655002e32c526c0bc3846)
@@ -7,9 +7,9 @@ Get it from [pub](https://pub.dev/packages/animated_rotation).
 Add the dependency to your pubspec.yaml
 ```yaml
 dependencies:
-  animated_rotation: ^0.0.2
+  animated_rotation: ^1.0.0
 ```
-Run `flutter packages get` in your root folder after saving the pubspec.yaml file
+Run `flutter pub get` in your root folder after saving the pubspec.yaml file
 # Usage
 Here is an example of the counter app with text rotating based on the count
 ```dart
